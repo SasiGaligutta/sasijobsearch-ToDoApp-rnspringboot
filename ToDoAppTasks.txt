@@ -1,0 +1,15 @@
+1)Buttons.
+2react-native-community/datetimepicker not visible.
+3)Picker in Add Task screen.
+4)Data coming in ToDoController as null values.
+
+
+
+
+
+{"Tsknme":"boxing",
+"Tskdesc":"15 mnts",
+"date":"Thu May 04 2023",
+"priority":"high",
+"time":"06:26:34 GMT+0530"
+}
